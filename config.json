@@ -1,0 +1,18 @@
+{
+    "colors": {
+        "logo": "cyan",
+        "prompt_option": "cyan",
+        "random_option": "magenta",
+        "procedural_option": "yellow",
+        "clear_option": "green",
+        "quit_option": "red",
+        "spinner": "deep_pink1",
+        "saved_text": "green"
+    },
+    "extras": {
+        "auto_set_wallpaper": false,
+        "default_menu_choice": "1",
+        "show_file_path": true,
+        "confirm_before_set": true
+    }
+}
